@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T10:51:11.011Z" agent="5.0 (Windows)" etag="i36wb1-GX4dh2gmVuEZM" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-21T12:25:11.066Z" agent="5.0 (Windows)" etag="bwEeKJYHA5goIdu5pB4q" version="13.8.1" type="github" pages="2">
   <diagram id="ulsGIDtFhsmIXwHdDtSO" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
           <mxGeometry x="160" y="440" width="600" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Hj_LFDybidfmUEGG6L2G-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
-          <mxGeometry x="160" y="620" width="600" height="180" as="geometry" />
+          <mxGeometry x="160" y="620" width="600" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Hj_LFDybidfmUEGG6L2G-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
           <mxGeometry x="120" y="860" width="700" height="290" as="geometry" />
@@ -307,7 +307,7 @@
           <mxGeometry x="560" y="1000" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Hj_LFDybidfmUEGG6L2G-24" value="Download Resume" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
-          <mxGeometry x="560" y="810" width="180" height="50" as="geometry" />
+          <mxGeometry x="560" y="790" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hj_LFDybidfmUEGG6L2G-25" value="About Me" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=20;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
           <mxGeometry x="170" y="450" width="150" height="30" as="geometry" />
@@ -460,7 +460,7 @@
           <mxGeometry x="720" y="620" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEzx3l5A49-QgeTqFytk-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
-          <mxGeometry x="740" y="810" width="40" height="40" as="geometry" />
+          <mxGeometry x="740" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEzx3l5A49-QgeTqFytk-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
           <mxGeometry x="710" y="1080" width="40" height="40" as="geometry" />
@@ -519,7 +519,7 @@
         <mxCell id="NEzx3l5A49-QgeTqFytk-23" value="Zone de Saisie" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontColor=#000000;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
           <mxGeometry x="120" y="2055" width="280" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="NEzx3l5A49-QgeTqFytk-24" value="&lt;div align=&quot;left&quot;&gt;Un clique sur les lien d&#39;ancrage redirige vers la zone correspondante &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontColor=#000000;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
+        <mxCell id="NEzx3l5A49-QgeTqFytk-24" value="&lt;div style=&quot;font-size: 25px;&quot; align=&quot;left&quot;&gt;Un clique sur les lien d&#39;ancrage redirige vers la zone correspondante &lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;" vertex="1" parent="Hj_LFDybidfmUEGG6L2G-1">
           <mxGeometry x="29.999999999999996" y="2310" width="497.88" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NEzx3l5A49-QgeTqFytk-25" value="" style="group" vertex="1" connectable="0" parent="Hj_LFDybidfmUEGG6L2G-1">
